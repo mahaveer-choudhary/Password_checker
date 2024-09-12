@@ -29,6 +29,3 @@ This Python script provides a tool for evaluating the strength of passwords by a
 python password_strength_checker.py
 
 
-
-
-
